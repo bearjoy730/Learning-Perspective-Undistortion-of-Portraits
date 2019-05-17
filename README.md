@@ -35,12 +35,12 @@ in this area.
 ## Applications
 
 ### 1. Portrait Undistortion (Demos are coming soon...)
-
+  
 ### 2. Run-time Head mounted camera undistortion 
    ![](webimages/loc2_small.gif)
 
 ### 3. Camera Parameter Estimation (Demos are coming soon...)
-
+![](webimages/changingDistance.gif)
 ### 4. Face Verification
 
 ### 5. Landmark Detection Enhancement
