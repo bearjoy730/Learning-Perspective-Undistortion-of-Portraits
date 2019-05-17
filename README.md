@@ -28,6 +28,7 @@ portrait database with a large diversity in identities, expression
 and poses, which will benefit the related research
 in this area.
 ## Dataset
+![](webimages/database.jpg)
 ## Applications
 
 ### 1. Portrait Undistortion (Demos are coming soon...)
