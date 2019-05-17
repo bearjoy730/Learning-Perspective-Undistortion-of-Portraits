@@ -40,7 +40,7 @@ in this area.
    ![](webimages/loc2_small.gif)
 
 ### 3. Camera Parameter Estimation (Demos are coming soon...)
-![](webimages/changingDistance.gif)
+![](webimages/focallength.gif)
 ### 4. Face Verification
 
 ### 5. Landmark Detection Enhancement
