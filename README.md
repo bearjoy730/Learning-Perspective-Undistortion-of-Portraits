@@ -29,18 +29,23 @@ and poses, which will benefit the related research
 in this area.
 ## Dataset
 ![](webimages/database.jpg)
+
+## Beam-splitter system
+
 ## Applications
 
 ### 1. Portrait Undistortion (Demos are coming soon...)
+
+### 2. Run-time Head mounted camera undistortion 
    ![](webimages/loc2_small.gif)
 
-### 2. Camera Parameter Estimation (Demos are coming soon...)
+### 3. Camera Parameter Estimation (Demos are coming soon...)
 
-### 3. Face Verification
+### 4. Face Verification
 
-### 4. Landmark Detection Enhancement
+### 5. Landmark Detection Enhancement
 
-### 5. 3D Face Reconstruction from images
+### 6. Robust 3D Face Reconstruction from images
 
 ### Citation
 
