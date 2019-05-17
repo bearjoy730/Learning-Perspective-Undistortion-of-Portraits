@@ -31,7 +31,7 @@ in this area.
 ![](webimages/database.jpg)
 
 ## Beam-splitter system
-
+![](webimages/beamSplitterSystem.png)
 ## Applications
 
 ### 1. Portrait Undistortion (Demos are coming soon...)
