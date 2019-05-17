@@ -45,14 +45,10 @@ in this area.
 
 If you find our project useful in your research, please consider citing:
 
-[Paper](#introduction)  [Data]
+[Paper](#introduction)  [Data]  [Code](coming soon)
 
 ```
-@article{liu2019softras,
-  title={Soft Rasterizer: A Differentiable Renderer for Image-based 3D Reasoning},
-  author={Liu, Shichen and Li, Tianye and Chen, Weikai and Li, Hao},
-  journal={arXiv preprint arXiv:1904.01786},
-  year={2019}
+@article{
 }
 ```
 
