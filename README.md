@@ -1,10 +1,5 @@
 # Learning-Perspective-Undistortion-of-Portraits
 
-## Contents
-
-1. [Paper](https://arxiv.org/pdf/1904.01786.pdf)
-3. [Applications](#applications)
-
 ## Introduction
 
 Near-range portrait photographs often contain perspective
@@ -43,4 +38,20 @@ in this area.
 ### 3. Pose Optimization for Rigid Objects
 
 ### 4. Non-rigid Shape Fitting
+
+
+### Citation
+
+If you find our project useful in your research, please consider citing:
+
+[Paper](#introduction)  [Data]
+
+```
+@article{liu2019softras,
+  title={Soft Rasterizer: A Differentiable Renderer for Image-based 3D Reasoning},
+  author={Liu, Shichen and Li, Tianye and Chen, Weikai and Li, Hao},
+  journal={arXiv preprint arXiv:1904.01786},
+  year={2019}
+}
+```
 
