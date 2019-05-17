@@ -32,7 +32,7 @@ in this area.
 ## Applications
 
 ### 1. Portrait Undistortion (Demos are coming soon...)
-   ![](webimages/loc2.gif)
+   ![](webimages/loc2_small.gif)
 
 ### 2. Camera Parameter Estimation (Demos are coming soon...)
 
