@@ -30,15 +30,16 @@ in this area.
 ## Dataset
 ## Applications
 
-### 1. 3D Unsupervised Single-view Mesh Reconstruction
-(More demos are coming soon)
+### 1. Portrait Undistortion (Demos are coming soon...)
 
-### 2. Image-based Shape Deformation
 
-### 3. Pose Optimization for Rigid Objects
+### 2. Camera Parameter Estimation (Demos are coming soon...)
 
-### 4. Non-rigid Shape Fitting
+### 3. Face Verification
 
+### 4. Landmark Detection Enhancement
+
+### 5. 3D Face Reconstruction from images
 
 ### Citation
 
