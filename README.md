@@ -35,7 +35,7 @@ in this area.
 ## Applications
 
 ### 1. Portrait Undistortion (Demos are coming soon...)
-  
+  ![](webimages/portraitUndistort.jpg)
 ### 2. Run-time Head mounted camera undistortion 
    ![](webimages/loc2_small.gif)
 
