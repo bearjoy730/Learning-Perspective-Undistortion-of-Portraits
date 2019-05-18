@@ -4,33 +4,27 @@
 
 Near-range portrait photographs often contain perspective
 distortion artifacts that bias human perception and
-challenge both facial recognition and reconstruction techniques.
-We present the first deep learning based approach
-to remove such artifacts from unconstrained portraits. In
-contrast to the previous state-of-the-art approach [23], our
-method handles even portraits with extreme perspective distortion,
-as we avoid the inaccurate and error-prone step of
-first fitting a 3D face model. Instead, we predict a distortion
+challenge both facial recognition and reconstruction techniques. In this project we predict a distortion
 correction flow map that encodes a per-pixel displacement
 that removes distortion artifacts when applied to the
 input image. Our method also automatically infers missing
 facial features, i.e. occluded ears caused by strong perspective
-distortion, with coherent details. We demonstrate that
-our approach significantly outperforms the previous stateof-
-the-art [23] both qualitatively and quantitatively, particularly
-for portraits with extreme perspective distortion or
-facial expressions. We further show that our technique benefits
+distortion, with coherent details. Our technique benefits
 a number of fundamental tasks, significantly improving
 the accuracy of both face recognition and 3D reconstruction
 and enables a novel camera calibration technique from
 a single portrait. Moreover, we also build the first perspective
 portrait database with a large diversity in identities, expression
-and poses, which will benefit the related research
-in this area.
+and poses.
+
 ## Dataset
+Our training dataset contains 278 different individuals rendered with randomly sampled focal length, camera views and lighting environment. 
 ![](webimages/database.jpg)
 
 ## Beam-splitter system
+To demonstrate that our system scales well to real-world portraits, we also devised a twocamera beam splitter capture system that would enable simultaneous photography of a subject at two different distances. With carefully geometry and color calibration, the two hardware-synced cameras were able to capture nearly ground truth portraits pairs of
+real subjects both with and without perspective distortions.
+
 ![](webimages/beamSplitterSystem.png)
 ## Applications
 
