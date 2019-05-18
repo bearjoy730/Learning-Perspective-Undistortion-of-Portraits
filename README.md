@@ -35,17 +35,13 @@ real subjects both with and without perspective distortions.
 
 ### 3. Camera Parameter Estimation (Demos are coming soon...)
 ![](webimages/focallength.gif)
-### 4. Face Verification
-
-### 5. Landmark Detection Enhancement
-
-### 6. Robust 3D Face Reconstruction from images
+[Paper](#introduction)  [Data]  [Code](coming soon)
 
 ### Citation
 
 If you find our project useful in your research, please consider citing:
 
-[Paper](#introduction)  [Data]  [Code](coming soon)
+
 
 ```
 @article{
