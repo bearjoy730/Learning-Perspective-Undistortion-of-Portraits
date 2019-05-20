@@ -36,7 +36,7 @@ real subjects both with and without perspective distortions.
 ### 3. Camera Parameter Estimation (Demos are coming soon...)
 ![](webimages/focallength.gif)
 
-### 4. Image-based 3D head reconstruction
+### 4. Image-based 3D Head Reconstruction
 
 
 ### 5. Landmark Detection and Face Verification Enhancement
