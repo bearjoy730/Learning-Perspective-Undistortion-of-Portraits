@@ -34,7 +34,7 @@ real subjects both with and without perspective distortions.
    ![](webimages/loc2_small.gif)
 
 ### 3. Camera Parameter Estimation (Demos are coming soon...)
-![](webimages/focallength.gif)
+![](webimages/cameraPrediction.gif)
 
 ### 4. Robust Image-based 3D Head Reconstruction
 ![](webimages/Reconstruction.gif)
