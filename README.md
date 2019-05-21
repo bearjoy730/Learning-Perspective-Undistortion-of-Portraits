@@ -15,17 +15,20 @@ To demonstrate that our system scales well to real-world portraits, we also devi
 ## Applications
 
 ### 1. Portrait Undistortion (Demos are coming soon...)
-  ![](webimages/portraitUndistort.jpg)
+![](webimages/portraitUndistort.jpg)
 ### 2. Run-time Head mounted camera undistortion 
 Our technique can be applied to HMC facial motion capture.
-   ![](webimages/loc2_small.gif)
+
+![](webimages/loc2_small.gif)
 
 ### 3. Camera Parameters Estimation (Demos are coming soon...)
 Our approach provides the power to accurately estimate camera parameters from a single unconstrained face image (focal length and camera-to-subject distances).
+
 ![](webimages/cameraPrediction.gif)
 
 ### 4. Robust Image-based 3D Head Reconstruction
 The quality of image-based 3D head reconstruction are heavily relying on the input image. Our approach will remove perspective distortion of the input image, so that the distortion and inaccuracy in the corresponding 3D head will be eliminated. 
+
 ![](webimages/Reconstruction.gif)
 
 ### 5. Landmark Detection and Face Verification Enhancement
