@@ -41,7 +41,7 @@ real subjects both with and without perspective distortions.
 
 ### 5. Landmark Detection and Face Verification Enhancement
 
-[Paper](#introduction)  [Data]  [Code](coming soon)
+[Paper](https://arxiv.org/pdf/1905.07515.pdf)  [Data]  [Code](coming soon)
 
 ### Citation
 
