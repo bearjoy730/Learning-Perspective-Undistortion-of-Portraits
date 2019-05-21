@@ -50,7 +50,12 @@ If you find our project useful in your research, please consider citing:
 
 
 ```
-@article{
+@article{Zhao2019learning,
+  title={Learning Perspective Undistortion of Portraits},
+  author={Zhao, Yajie and Huang, Zeng and Li, Tianye and Chen, Weikai and LeGendre, Chloe and Ren, Xinglei and Xing, Jun and
+  Shapiro, Ari and Li, Hao},
+  journal={arXiv preprint arXiv:1905.07515},
+  year={2019}
 }
 ```
 
