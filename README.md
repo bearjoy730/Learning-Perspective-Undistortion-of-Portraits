@@ -5,7 +5,7 @@
 Near-range portrait photographs often contain perspective distortion artifacts that bias human perception and challenge both facial recognition and reconstruction techniques. In this project we predict a distortion correction flow map that encodes a per-pixel displacement that removes distortion artifacts when applied to the input face image. Our method also automatically infers missing facial features, i.e. occluded ears caused by strong perspective distortion, with coherent details. Our technique benefits a number of fundamental tasks, significantly improving the accuracy of both face recognition and 3D reconstruction and enables a novel camera calibration technique from a single portrait. Moreover, we also build the first perspective portrait database with a large diversity in identities, expression and poses.
 
 ## Training Dataset
-Our training dataset contains 278 different individuals rendered with randomly sampled focal length, camera views and lighting environment. More details about can be found in our paper.
+Our training dataset contains 278 different individuals rendered with randomly sampled focal length, camera views and lighting environment. More details about the training data can be found in our paper.
 ![](webimages/database.jpg)
 
 ## Testing with real-world portraits
@@ -16,13 +16,16 @@ To demonstrate that our system scales well to real-world portraits, we also devi
 
 ### 1. Portrait Undistortion (Demos are coming soon...)
 ![](webimages/portraitUndistort.jpg)
+
+*Fried, Ohad, et al. "Perspective-aware manipulation of portrait photos." ACM Transactions on Graphics (TOG) 35.4 (2016): 128.
+
 ### 2. Run-time Head mounted camera undistortion 
 Our technique can be applied to HMC facial motion capture.
 
 ![](webimages/loc2_small.gif)
 
 ### 3. Camera Parameters Estimation (Demos are coming soon...)
-Our approach provides the power to accurately estimate camera parameters from a single unconstrained face image (focal length and camera-to-subject distances).
+Our approach provides the power to accurately estimate camera parameters from a single unconstrained face image (focal length and camera-to-subject distance).
 
 ![](webimages/cameraPrediction.gif)
 
@@ -32,10 +35,11 @@ The quality of image-based 3D head reconstruction are heavily relying on the inp
 ![](webimages/Reconstruction.gif)
 
 ### 5. Landmark Detection and Face Verification Enhancement
-Our approach greatly enhance the performance of face verification and landmark detection of the near-range portraits.
+Our approach greatly enhance the performance of face verification and landmark detection of the near-range portraits. More details can be found in the paper.
 
 
 [Paper](https://arxiv.org/pdf/1905.07515.pdf)  [Data]  [Code](coming soon)
+
 
 ### Citation
 
